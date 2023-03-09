@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T04:55:50.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_VY_hrZ-O5ubkFAKLIoM" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T05:07:20.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ToAYR1jQHnmP1BxBQnd0" version="21.0.2" type="github">
   <diagram name="Página-1" id="QXGFcyqtO2LAgZ7RdORf">
     <mxGraphModel dx="1877" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="vr5rwgL9Q3Kud_MAougq-25" value="+id_sede&#xa;+Datos" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="vr5rwgL9Q3Kud_MAougq-24" vertex="1">
           <mxGeometry y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vr5rwgL9Q3Kud_MAougq-28" value="STOCK" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="vr5rwgL9Q3Kud_MAougq-28" value="Producto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="271" y="320" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vr5rwgL9Q3Kud_MAougq-29" value="+Id_stock&#xa;+Datos" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="vr5rwgL9Q3Kud_MAougq-28" vertex="1">
